@@ -1,0 +1,11 @@
+name: FeedCommand
+version: 1.0
+main: fr.thorite.feedcommand.FeedCommand
+author: Thorite
+description: Feed !
+ 
+commands:
+    feed:
+        usage: /<command>
+        aliases: [food, sate]
+        description: Feed.
